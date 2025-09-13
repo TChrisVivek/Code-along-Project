@@ -17,6 +17,6 @@ public class Student {
     public void displayDetails() {
         System.out.println("Student ID: " + this.studentId);
         System.out.println("Student Name: " + this.name);
-        System.out.println("--------------------");
+        System.out.println("-------------------");
     }
 }
